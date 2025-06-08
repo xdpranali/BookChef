@@ -24,14 +24,16 @@ The BookChef web application, for book the chef online and which is built with J
 
 # Screenshots <a name="screenshots"></a>
 
-![Screenshot 1](https://github.com/Bhumikapatil22/R3sys-Digital-Bank/blob/main/images/1.png)
-![Screenshot 1](https://github.com/Bhumikapatil22/R3sys-Digital-Bank/blob/main/images/2.png)
-![Screenshot 1](https://github.com/Bhumikapatil22/R3sys-Digital-Bank/blob/main/images/3.png)
-![Screenshot 1](https://github.com/Bhumikapatil22/R3sys-Digital-Bank/blob/main/images/4.png)
-![Screenshot 1](https://github.com/Bhumikapatil22/R3sys-Digital-Bank/blob/main/images/5.png)
-![Screenshot 1](https://github.com/Bhumikapatil22/R3sys-Digital-Bank/blob/main/images/6.png)
-![Screenshot 1](https://github.com/Bhumikapatil22/R3sys-Digital-Bank/blob/main/images/7.png)
-
+![Screenshot 1](https://github.com/xdpranali/BookChef/blob/main/images/1.png)
+![Screenshot 1](https://github.com/xdpranali/BookChef/blob/main/images/2.png)
+![Screenshot 1](https://github.com/xdpranali/BookChef/blob/main/images/3.png)
+![Screenshot 1](https://github.com/xdpranali/BookChef/blob/main/images/4.png)
+![Screenshot 1](https://github.com/xdpranali/BookChef/blob/main/images/5.png)
+![Screenshot 1](https://github.com/xdpranali/BookChef/blob/main/images/6.png)
+![Screenshot 1](https://github.com/xdpranali/BookChef/blob/main/images/7.png)
+![Screenshot 1](https://github.com/xdpranali/BookChef/blob/main/images/8.png)
+![Screenshot 1](https://github.com/xdpranali/BookChef/blob/main/images/9.png)
+![Screenshot 1](https://github.com/xdpranali/BookChef/blob/main/images/10.png)
 
 # Usage <a name="usage"></a> 
 1. Perform CRUD operations on user and chef accounts.
