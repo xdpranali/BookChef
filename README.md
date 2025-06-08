@@ -9,7 +9,7 @@
 + [Installation and Setup](#installationandsetup)
 
 ## Description <a name="description"></a>
-The BookChef web application, built with Java (Core + Advanced) and the Spring Framework, enables users to perform CRUD operations on their booking, facilitating efficient management of booking activities.
+The BookChef web application, for book the chef online and which is built with Java (Core + Advanced) and the Spring Framework, enables users to perform CRUD operations on their booking, facilitating efficient management of booking activities.
 
 # Technology <a name="technology"></a>
 - **Frontend**: HTML, CSS, Javascript, Bootstrap
@@ -18,7 +18,7 @@ The BookChef web application, built with Java (Core + Advanced) and the Spring F
 - **Version Control**: Git
 
 # Features <a name="features"></a>
-- Admin can perform CRUD(CREATE, READ, UPDATE and DELETE) operations on User's and chef's account.
+- Admin can perform CRUD(CREATE, READ, UPDATE and DELETE) operations on User's and Chef's account.
 - Booking activities such as book, approve, disapprove, delete, update chef / user can be performed.
 - Admin can search user and chef.
 
