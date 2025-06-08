@@ -19,7 +19,7 @@ The BookChef web application, for book the chef online and which is built with J
 
 # Features <a name="features"></a>
 - Admin can perform CRUD(CREATE, READ, UPDATE and DELETE) operations on User's and Chef's account.
-- Booking activities such as book, approve, disapprove, delete, update chef / user can be performed.
+- Booking activities such as book, approve, disapprove, delete, update, search, view all, view pending chef / user can be performed.
 - Admin can search user and chef.
 
 # Screenshots <a name="screenshots"></a>
@@ -41,6 +41,6 @@ The BookChef web application, for book the chef online and which is built with J
 3. Search for users and chefs.
 
 # Installation and Setup <a name="installationandsetup"></a>
-1. Clone the repository: `git clone https://github.com/Bhumikapatil22/R3sys-Digital-Bank.git`
+1. Clone the repository: `git clone https://github.com/xdpranali/BookChef.git`
 2. Set up the database using XAMPP.
 3. Open the project in your Eclipse IDE.
